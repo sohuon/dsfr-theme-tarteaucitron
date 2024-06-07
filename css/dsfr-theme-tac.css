@@ -2,7 +2,7 @@
   Styles généraux
  **/
 
-:root[data-rf-theme="dark"] {
+:root[data-fr-theme="dark"] {
   --bf500: #bfbfe3;
   --w-bf500: #000091;
   --t-plain: transparent;
